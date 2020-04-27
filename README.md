@@ -1,9 +1,10 @@
  [![F1](https://cdn.clipart.email/8ed92a2960da2dbe71a28ff8f9178848_formula-1-logo-png-file-png-mart_827-510.png)](https://www.formula1.com/) 
-# F1 Dashboard and MFD Circuit 
+# F1 Dashboard and Controller Circuit 
 
 ![F1 MFD-MultiFunction Display](https://i.ytimg.com/vi/TC1z0TaamMU/maxresdefault.jpg)
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/aadiltajani.svg?style=social&label=Follow%20%40tajani_aadil)](https://twitter.com/tajani_aadil)
+
 This is a complex circuit made in logisim. To run and test the circuit, you need to have logisim installed (exe file included in package folder).
 - Get a look of circuit from the images in package folder
 # Instructions :
